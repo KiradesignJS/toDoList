@@ -86,7 +86,7 @@ ul li::before {
 }
 
 ul li.checked {
-    color: #646464;
+    color: #5e5d5d;
     text-decoration: line-through;
 }
 
